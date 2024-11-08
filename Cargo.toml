@@ -1,0 +1,8 @@
+[package]
+name = "rustsubscriber1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+zeromq = "0.4.1"
+zmq = "0.9"
